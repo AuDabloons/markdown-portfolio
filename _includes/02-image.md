@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a freaking cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fnasa-just-proved-it-can-navigate-space-using-pulsars-where-to-now%2F&psig=AOvVaw3DEIjSN8HMw6qu9Edb5l4d&ust=1596888641331000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj0ir2wiesCFQAAAAAdAAAAABAD)
